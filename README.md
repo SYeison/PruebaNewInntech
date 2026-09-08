@@ -172,5 +172,5 @@ app/
 ```
 
 ## Capturas de las estadísticas
+<img width="1317" height="491" alt="image" src="https://github.com/user-attachments/assets/8038897b-677e-410d-9954-89522aa09ea8" />
 
-_Agregar aquí capturas de Postman/navegador mostrando `GET /votes/statistics` en ejecución antes de subir el repositorio._
